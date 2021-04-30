@@ -1,0 +1,10 @@
+{
+	"BOT_PREFIX": "#",
+
+	"PLAYING_STATUSES": [
+		"Truth or Dare",
+		"Would You Rather",
+		"Never Have I Ever"
+	]
+
+}
