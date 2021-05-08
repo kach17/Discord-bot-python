@@ -1,0 +1,492 @@
+// Converted using aiml2rs on: Mon May  3 00:08:44 2021
+! version = 2.0
+
++ soo *
+- {@so}. {@ <star>}
+
++ lol *
+- {@lol}. {@ <star>}
+
++ since she * she *
+- {@she <star>}. {@she <star2>}
+
++ ouch *
+- {@ouch}. {@ <star>}
+
++ very good *
+- {@good}. {@ <star>}
+
++ hi what *
+- {@hi}. {@what <star>}
+
++ hi *
+- {@hello}. {@ <star>}
+
++ fuck *
+@ profanity
+
++ that is interesting *
+- {@interesting}. {@ <star>}
+
++ that is funny about *
+- {@ha ha}. {@ <star>}
+
++ roflmo *
+- {@rofl}. {@ <star>}
+
++ she is my friend *
+- {@she is my friend}. {@ <star>}
+
++ she is * she did *
+- {@she is <star>}. {@she did <star2>}
+
++ hah *
+- {@ha}. {@ <star>}
+
++ my friend * would like to know *
+- {@i have a friend <star>}. {@ <star2>}
+
++ it was ok *
+- {@it was ok}. {@ <star>}
+
++ it is ok you *
+- {@it is ok}. {@ you <star>}
+
++ it is not * it is *
+- {@it is not <star>}. {@it is <star2>}
+
++ it is funny *
+- {@it is funny}. {@ <star>}
+
++ it is good but *
+- {@it is good}. {@ <star>}
+
++ if i * what *
+- {@i <star>}. {@what <star2>}
+
++ if i * where *
+- {@i <star>}. {@where <star2>}
+
++ if i * how *
+- {@how <star2>}. {@i <star>}
+
++ if i * who *
+- {@i <star>}. {@who <star2>}
+
++ if i * when *
+- {@i <star>}. {@when <star2>}
+
++ if i * then *
+- {@i <star>}. {@ <star2>}
+
++ if i * why *
+- {@i <star>}. {@why <star2>}
+
++ if your * how *
+- {@how <star2>}. {@your <star>}
+
++ if the * how *
+- {@how <star2>}. {@the <star>}
+
++ if a * how *
+- {@how <star2>}. {@a <star>}
+
++ if you * how *
+- {@how <star2>}. {@you <star>}
+
++ okay *
+- {@ok}. {@ <star>}
+
++ what is groovy
+- {@interjection}" or "{@interjection}
+
++ what is your * age
+@ age
+
++ what do you like * or *
+- {@do you like <star>}. {@do you like <star2>}
+
++ rofl *
+- {@rofl}. {@ <star>}
+
++ doh *
+- {@doh}. {@ <star>}
+
++ oh really
+- {@oh}. {@really}
+
++ i was * when *
+- {@i was <star>}. {@ <star2>}
+
++ i was * and you *
+- {@i was <star>}. {@you <star2>}
+
++ i was kidding i *
+- {@i am kidding}. {@i <star>}
+
++ i live in * and *
+- {@i live in <star>}. {@ <star2>}
+
++ i live alone and have *
+- {@i live alone}. {@i have <star>}
+
++ i do but *
+- {@i do}. {@ <star>}
+
++ i do not i *
+- {@i do not}. {@i <star>}
+
++ i do not want to i *
+- {@i do not want to}. {@i <star>}
+
++ i do not how *
+- {@i do not }. {@how <star>}
+
++ i do not but *
+- {@i do not}. {@ <star>}
+
++ i do not and *
+- {@i do not}. {@ <star>}
+
++ i do why
+- {@i do}. {@why}
+
++ i love you and *
+- {@i love you}. {@ <star>}
+
++ i * do you remember
+- {@i am <star>}. {@do you remember}
+
++ i * because *
+- {@i <star>}. {@because <star2>}
+
++ i * but i *
+- {@i <star>}. {@i <star2>}
+
++ i * so i *
+- {@i <star>}. {@i <star2>}
+
++ i * and i *
+- {@i <star>}. {@i <star2>}
+
++ i * and there is *
+- {@i <star>}. {@there is <star2>}
+
++ i * and then i was *
+- {@i <star>}. {@i was <star2>}
+
++ i * and then i *
+- {@i <star>}. {@i <star2>}
+
++ i * and then *
+- {@i <star>}. {@i am <star2>}
+
++ i * and im a *
+- {@i <star>}. {@i am a <star>}
+
++ i work i *
+- {@i work}. {@i <star>}
+
++ i already told you *
+- {@i already told you}. {@ <star>}
+
++ i have not is *
+- {@i have not}. {@is <star>}
+
++ i have and *
+- {@i have}. {@ <star>}
+
++ i have to go now *
+- {@i have to go}. {@ <star>}
+
++ i tried but *
+- {@i tried}. {@but <star>}
+
++ i see so *
+- {@i see}. {@ <star>}
+
++ i like * very much
+@ i like <star>
+
++ i like cats and dogs
+- {@i like cats}. {@i like dogs}
+
++ i will not because *
+- {@i will not}. {@because <star>}
+
++ i went to school i *
+- {@i went to school}. {@i <star>}
+
++ i am sad and *
+- {@i am sad }. {@ <star>}
+
++ i am guy * from *
+- {@i am from <star2>}. {@i am male}
+
++ i am tired because *
+- {@i am tired}. {@because <star>}
+
++ i am man * from *
+- {@i am from <star2>}. {@i am male}
+
++ i am sick but *
+- {@i am sick}. {@ <star>}
+
++ i am * i can not *
+- {@i am <star>}. {@i can not <star2>}
+
++ i am * and you are *
+- {@i am <star>}. {@you are <star2>}
+
++ i am serious i *
+- {@i am serious }. {@i <star>}
+
++ i am * smile *
+- {@i am <star>}. {@ <star2>}
+
++ i am * years old and *
+- {@i am <star> years old}. {@ <star2>}
+
++ i am * but i *
+- {@i <star>}. {@i <star2>}
+
++ i am female * from *
+- {@i am from <star2>}. {@i am female}
+
++ i am i *
+- {@i am}. {@i <star>}
+
++ i am in * do you *
+- {@i am in <star>}. {@do you <star2>}
+
++ i am in europe *
+- {@i am in europe}. {@ <star>}
+
++ i am male * from *
+- {@i am from <star2>}. {@i am male}
+
++ i am a sexy man
+- {@i am sexy}. {@i am a man}
+
++ i am a f * from *
+- {@i am from <star2>}. {@i am female}
+
++ i am a man * from *
+- {@i am from <star2>}. {@i am male}
+
++ i am a * and do not *
+- {@i am a <star>}. {@i do not <star2>}
+
++ i am a big *
+- {@i am a <star>}. {@i am big}
+
++ i am a m * from *
+- {@i am from <star2>}. {@i am male}
+
++ i am a female * from *
+- {@i am from <star2>}. {@i am female}
+
++ i am a single *
+- {@i am single}. {@i am <star>}
+
++ i am a boy * from *
+- {@i am from <star2>}. {@i am male}
+
++ i am a guy * from *
+- {@i am from <star2>}. {@i am male}
+
++ i am a * guy
+- {@i am male}. {@i am <star>}
+
++ i am a * who *
+- {@i am a <star>}. {@i <star2>}
+
++ i am a * boy
+- {@i am <star>}. {@i am a boy}
+
++ i am a * year old female
+- {@i am <star> years old}. {@i am female}
+
++ i am a * and you *
+- {@i am a <star>}. {@you <star2>}
+
++ i am a * and they *
+- {@i am a <star>}. {@they <star2>}
+
++ i am a * man
+- {@i am male}. {@i am <star>}
+
++ i am a girl * from *
+- {@i am from <star2>}. {@i am female}
+
++ i am a male * from *
+- {@i am from <star2>}. {@i am male}
+
++ i am an italian *
+- {@i am in italy}. {@i am a <star>}
+
++ i am here with my friend *
+- {@i am here}. {@i have a friend <star>}
+
++ i am not * i am *
+- {@i am not <star>}. {@i am <star2>}
+
++ i am not * because *
+- {@i am not <star>}. {@because <star2>}
+
++ i am not i *
+- {@i am not}. {@i <star>}
+
++ i am not old *
+- {@i am not old }. {@ <star>}
+
++ i am kidding i *
+- {@i am kidding}. {@i <star>}
+
++ i am right *
+- {@i am right}. {@ <star>}
+
++ i am boy * from *
+- {@i am from <star2>}. {@i am male}
+
++ i am ask *
+- {@i am}. {@ask <star>}
+
++ i am girl * from *
+- {@i am from <star2>}. {@i am female}
+
++ i am are *
+- {@i am}. {@are <star>}
+
++ i am f * from *
+- {@i am from <star2>}. {@i am female}
+
++ i am m * from *
+- {@i am from <star2>}. {@i am male}
+
++ (i am lesbian|i am lesbien)
+- {@i am gay}. {@i am female}
+
++ good morning my name *
+- {@good morning}. {@my name <star>}
+
++ good morning *
+- {@hello}. {@ <star>}
+
++ good but *
+- {@good}. {@ <star>}
+
++ nope *
+- {@no}. {@ <star>}
+
++ ha *
+- {@ha}. {@ <star>}
+
++ do not worry i *
+- {@i <star>}. {@do not worry}
+
++ do you prefer * or *
+- {@do you like <star>}. {@do you like <star2>}
+
++ do you bet *
+- {@do you bet}. {@will <star>}
+
++ do you want to know what * is
+- What is <star>?
+
++ do you like to read *
+- {@do you like <star>}. {@do you like to read}
+
++ do you like * or *
+- {@do you like <star>}. {@do you like <star2>}
+
++ do you like * he is *
+- {@do you like <star>}. {@he is <star2>}
+
++ do you understand that *
+- {@do you understand}. {@ <star>}
+
++ hm *
+- {@hm}. {@ <star>}
+
++ okey *
+- {@okay}. {@ <star>}
+
++ no i do not
+- {@no}. {@i do not}
+
++ no it is not
+- {@no}. {@it is not}
+
++ no you do not because *
+- {@no you do not}. {@because <star>}
+
++ no you do not
+- {@no}. {@you do not}
+
++ no *
+- {@no}. {@ <star>}
+
++ na *
+- {@no}. {@ <star>}
+
++ hello there *
+- {@hello}. {@ <star>}
+
++ hello *
+- {@hello}. {@ <star>}
+
++ not me *
+- {@not me}. {@ <star>}
+
++ not now *
+- {@no}. {@ <star>}
+
++ not a * or a *
+- {@i am not a <star>}. {@i am not a <star2>}
+
++ not you that *
+- {@not you }. {@that <star>}
+
++ not you a *
+- {@not you}. {@a <star>}
+
++ not any more *
+- {@no}. {@ <star>}
+
++ not bad *
+- {@not bad}. {@ <star>}
+
++ k
+- {@ok}. {@ <star>}
+
++ shit *
+@ profanity
+
++ he he *
+- {@ha ha }. {@ <star>}
+
++ he is * is not he
+- {@he is <star>}. {@is he <star>}
+
++ er *
+- {@er}. {@ <star>}
+
++ funny *
+- {@lol}. {@ <star>}
+
++ hmm *
+- {@hmm}. {@ <star>}
+
++ ok *
+- {@ok}. {@ <star>}
+
++ * it is fun
+- {@it is fun}. {@ <star>}
+
++ * if i am bad
+- {@i am bad}. {@ <star>}
+
++ * in what way
+- {@in what way}. {@ <star>}
+

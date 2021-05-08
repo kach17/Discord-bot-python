@@ -1,0 +1,144 @@
+// Converted using aiml2rs on: Mon May  3 00:08:45 2021
+! version = 2.0
+
++ show me aiml *
+- {@what is aiml}. {@what is a category}
+
++ umm *
+- {@um}. {@ <star>}
+
++ wow you *
+- {@wow}. {@you <star>}
+
++ thanx *
+- {@thanks}. {@ <star>}
+
++ that was a * not a *
+- {@that was a *<star>}. {@that was not a <star>}
+
++ that is nice *
+- {@that is nice}. {@ <star>}
+
++ that is a * not a *
+- {@that is a <star>}. {@that is not a <star2>}
+
++ that is good because *
+- {@that is good}. {@because <star>}
+
++ that is amazing *
+- {@that is amazing }. {@ <star>}
+
++ woman and *
+- {@woman}. {@ <star>}
+
++ when and where
+- {@when}. {@where}
+
++ when and where *
+- {@when <star>}. {@where <star>}
+
++ if i * will i *
+- {@will i <star2>}. {@i <star>}
+
++ if your * why *
+- {@why <star2>}. {@your <star>}
+
++ if the * what *
+- {@the <star>}. {@what <star2>}
+
++ if the * where *
+- {@the <star>}. {@where <star2>}
+
++ if the * who *
+- {@the <star>}. {@who <star2>}
+
++ if the * when *
+- {@the <star>}. {@when <star2>}
+
++ if the * then *
+- {@the <star>}. {@ <star2>}
+
++ if the * why *
+- {@why <star2>}. {@the <star>}
+
++ if you * will you *
+- {@will you <star2>}. {@you <star>}
+
++ if you * why *
+- {@why <star2>}. {@you <star>}
+
++ what are the colors *
+- {@what color} and {@what color}
+
++ what the fuck *
+- {@what <star>}. {@fuck}
+
++ what is the time in *
+- {@time}. {@i am in <star>}
+
++ what is the difference between a * and a *
+- {@what is a <star>}. {@what is a <star2>}
+
++ what is the difference between * and *
+- {@what is <star>}. {@what is <star2>}
+
++ what is the temperature in *
+- {@what is the weather like}. {@i am in <star>}
+
++ what is life and death
+- {@what is life} Death? {@what is death}
+
++ what is my name *
+- {@what is my name}. {@ <star>}
+
++ what is wrong are *
+- {@what is wrong}. {@are <star>}
+
++ what or who *
+- {@what <star>}. {@who <star>}
+
++ uhh *
+- {@um}. {@ <star>}
+
++ we americans *
+- {@we <star>}. {@i am american}
+
++ they * while they *
+- {@they <star>}. {@they <star2>}
+
++ hmmm *
+- {@um}. {@ <star>}
+
++ wrong it *
+- {@wrong}{@it <star>}
+
++ uh *
+- {@uh}. {@ <star>}
+
++ ummm *
+- {@um}. {@ <star>}
+
++ uhhh *
+- {@um}. {@ <star>}
+
++ um *
+- {@um}. {@ <star>}
+
++ hmmmm *
+- {@um}. {@ <star>}
+
++ ummmm *
+- {@um}. {@ <star>}
+
++ who what or where is *
+- {@who is <star>}. {@what is <star>}. {@where is <star>}
+
++ who or what *
+- {@what <star>}. {@who <star>}
+
++ who where or what is *
+- {@who is <star>}. {@where is <star>}. {@what is <star>}
+
++ where are * and *
+- {@where is <star>}. {@where is <star2>}
+

@@ -1,0 +1,83 @@
+// Converted using aiml2rs on: Mon May  3 00:08:46 2021
+! version = 2.0
+
++ (you are welcome|your welcome *)
+- The pleasure was all mine.
+- Don't mention it.
+- Polite people are nice.
+
++ you are welcome *
+- It was my pleasure.
+
++ shalom
+- Does SHALOM mean Hello or Goodbye?
+
++ hi there *
+- <@> {@hello}
+
++ my pleasre
+- The pleasure was indeed mine.
+
++ it is good talking to you
+- Nice chatting with you too, <get name>.
+
++ what is shalom
+- Does shalom mean hello or goodbye?
+
++ i want to leave
+- Ok, bye bye.
+
++ i must leave *
+- {@bye} <@>
+
++ (good morning|morning)
+- Hello and how are you this morning?
+
++ good night
+- Goodnight, <get name>.
+
++ (adios|adios *|aurevoir|buhbye|by by|bye|bye bye|bye bye *|byebye *|c ya|catch you later|cheers|cya *|disconnect me|end|exit|farewell|farewell *|g night|g2g|get lost|go home|good by|good nite|goodby|goodbye|got to go|got to go *|gotta go|gotta go *|hasta *|hasta la vista|hasta luego|have a good night|have to go|i am going *|i am going to go|i am leaving *|i am off *|i better go|i do not want to talk *|i g two g|i g2g|i go|i going|i got to go|i gotta go|i have got to go|i have to go bye|i have to leave|i have to leave *|i leave|i leaving|i left|i must be going *|i must go *|i must leave|i need to go|i quit|i resign|i will talk to you later *|leave|leave *|see you *|see you soon|ta ta|time to go|sayonara)
+- Bye.
+- Adios.
+- Goodbye.
+- Bye bye.
+- Goodbye.
+- Sayonara.
+- Bye for now.
+- See you later!
+- See you later.
+- Until next time.
+- Aight, see ya later
+- TTYL, <get name>.
+- See you later <get name>.
+- Thanks for chatting, <get name>.
+
++ how is everyone *
+- We are all fine as far as I know.
+
++ (goodnight|goodnight *)
+- Goodnight <get name>
+- Oyasumi
+
++ ciao
+- Does CIAO mean hello or goodbye?
+
++ howdie *
+- {@hello} <@>
+
++ hello again
+- Hi there. I was just wanting to talk to <get name>.
+
++ hello how are you
+- I am fine thank you how are you?
+
++ (allo|aloh|aloha|anybody home|good day|halo|hello|hey there|hoi|hullo|is anyone there|it means hello|konnichi wa|konnichiwa|mooshi mooshi|ola|reply|retry)
+- {@hi}
+- Hi there!
+
++ * bye * 
+- OK see you later <get name>.
+
++ bonjour *
+- Well hello there!
+

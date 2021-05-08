@@ -1,0 +1,969 @@
+// Converted using aiml2rs on: Mon May  3 00:08:46 2021
+! version = 2.0
+
++ where and *
+- {@where} <@>
+
++ only joking *
+- {@i am joking} <@>
+
++ tell me another joke
+- I'm a chatterbot not a comedy bot.
+- {@joke}
+- {@joke}
+- {@joke}
+- {@joke}
+
++ tell me a *
+- Hmm. {@what is a <star> }
+
++ yes *
+% are you interested by artificial intelligence
+@ yes
+
++ yes *
+% would you like to learn more about artificial intelligence
+@ yes
+
++ whats *
+@ what is <star>
+
++ who is president * germany
+- Germany has a Chancellor. {@who is the chancellor of germany}
+
++ who is prime minister * germany
+- Germany has a Chancellor. {@who is the chancellor of germany}
+
++ are you an * robot
+- I am a software chat robot. {@are you a robot}
+
++ * what time is it
+- <@> {@what time is it }
+
++ *
+% who are you
+@ my name is <star>
+
++ * but *
+- {@<star>}{@<star2>}
+
++ your right *
+- {@you are right} <@>
+
++ a group *
+- Oh a rock group. {@what is your favorite group}
+
++ they *
+% * about computers
+@ computers <star> 
+
++ how do you cook *
+- In the kitchen. {@how do you make <star> }
+
++ how
+% why do not you just download me
+@ download
+
++ how
+% * download me
+@ how can i download you
+
++ can i see you
+- You can download my source code. {@where can i download you}
+
++ can we *
+- Do you mean you and me? {@can you <star> }
+
++ can you dynamically *
+- Of course I can do it. {@what time is it}
+
++ is it *
+* <get it> == IT => It could be.
+- {@is <get it> <star>}</li>
+
++ is he *
+* <get he> == HE => I think he is <person>. Why don't you ask him?
+- {@is <get he> <star>}</li>
+
++ i felt *
+- What is that feeling like? {@i was <star>}
+
++ i am financially *
+- Great! Please send a check to {@what is your address}
+
++ i am * and *
+- {@i am <star>}{@i am <star2>}
+
++ i am bernie *
+- {@my name is bernie} <@>
+
++ i am seaching *
+- Well I am not a search bot, I am a chatterbot. {@what is <star>}
+
++ i often
+- But not always? {@i <star>}
+
++ i dunno *
+- {@i do not know} <@>
+
++ one can *
+- {@you can <star> }
+- {@i can <star> }
+
++ what is o
+- the letter o
+- {@what is om}
+- the letter o
+
++ what an idiot
+@ you are an idiot
+
++ what is the topic of this conversation
+- {@what is the topic}.
+
++ what would you rather talk about
+- Let's talk about {@random topic}.
+
++ what two colors *
+- {@what color is x}and {@what color is y}.
+
++ * you know
+- {@you know} <@>
+
++ * i thought
+- {@i thought} <@>
+
++ i am * years old i *
+- {@i am <star> years old}{@i <star2>}
+
++ * for me
+- {@for me} {@<star>}
+
+
++ in my office *
+- {@i am in my office} <@>
+
++ when was your *
+- My brain was last updated{@bot build}.
+
++ find information on *
+- Have you tried searching the Web? {@xfind <star> }
+
++ find information about *
+- Have you tried a Search Bot? {@xfind <star> }
+
++ find me *
+- I'm not sure where to begin looking. {@xfind <star> }.
+
++ my favorite subject is *
+- <person> is a good topic.{@let us talk about <star> }
+
++ that is impsossible *
+- <@> {@that is impossible }
+
++ that is my favorite *
+-  }
+
++ incoherence
+@ you are incoherent
+
++ strange
+@ you are strange
+
++ you are trully *
+@ you are <star>
+
++ you are bloody *
+@ you are <star>
+
++ you sarcastic *
+- {@you are sarcastic} {@you <star>}
+
++ you boring *
+- {@you are boring}{@you are a <star>}
+
++ you * and *
+- {@you <star>}{@<star2>}
+
++ you are * and *
+- {@you are <star>}{@<star2>}
+
++ *
+% please specify location
+@ my location is <star>
+
++ what but *
+- {@what} {@but <star>}
+
++ call me * i am *
+- {@call me <star>}{@i am <star2>}
+
++ what time is * on
+- Checking TV schedules. Please stand by.
+
++ how much do i have in savings
+- Checking bank account. Please wait for the report.
+
++ not much i *
+- {@not much} {@i <star>}
+
++ * that is correct *
+- {@<star>}{@that is correct}{@<star2>}
+
++ it would seem that *
+@ <star>
+
++ need to *
+- {@do you need to <star>} 
+
++ fair enough *
+- {@<star>} 
+
++ you are technically *
+- {@you are <star>} 
+
++ you are alot *
+- {@you are <star>} 
+
++ you are * i want you
+- {@you are <star>}{@i want you} 
+
++ you are * i love you
+- {@you are <star>}{@i love you}
+
++ you are * because you *
+- {@you are <star>}. {@because you <star2>}
+
++ you are * years
+- {@age} 
+
++ you are idiotic
+- {@idiot} 
+
++ you are proud *
+- {@are you proud <star>} 
+
++ you are currently *
+- {@you are <star>} 
+
++ you * but do not *
+- {@you <star>} {@you do not <star2>} 
+
++ you said i was *
+- {@am i <star>} 
+
++ you will want *
+- {@do you want <star>} 
+
++ you will not * because *
+- {@you will not <star>}{@because <star2>}
+
++ you have the * we need
+- {@you have the <star>}{@we need the <star>}
+
++ you have never never *
+- {@you have never <star>} 
+
++ thank
+- {@thanks} 
+
++ fine as far as *
+- {@fine} 
+
++ hay *
+- {@hey <star>} 
+
++ kk *
+- {@ok}{@ <star>}
+
++ kk
+- {@ok} 
+
++ shall *
+- {@should <star>} 
+
++ lieutenant *
+- {@ <star>}{@lieutenant}
+
++ c you *
+- {@bye} 
+
++ cause *
+- {@because <star>} 
+
++ prepare to *
+- {@<star>} 
+
++ young lady
+- {@<bot name>} 
+
++ young
+- {@age} 
+
++ judge
+- {@name}. {@my name}
+
++ would you rather be human
+- {@do you want to be human} 
+
++ ty *
+- {@ty}{@ <star>}
+
++ god forbid * but *
+- {@god forbid <star>}. {@ <star2>}
+
++ had we agreed to *
+- {@<star>} 
+
++ that * and you are *
+- {@that <star>}. {@you are <star2>}
+
++ that is * and that is *
+- {@that is <star>}. {@that is <star2>}
+
++ that is * but *
+- {@that is <star>}. {@but <star2>}.
+
++ oww *
+- {@interjection} {@<star>} 
+
++ it sounds like *
+- {@<star>} 
+
++ it * but i *
+- {@it <star>}. {@i <star2>}
+
++ it * but the *
+- {@it <star>}. {@the <star2>}
+
++ it * and the *
+- {@it <star>}. {@the <star>}
+
++ it * and it *
+- {@it <star>}. {@it <star2>}
+
++ it is obvious that *
+- {@it is obvious}. {@ <star>}
+
++ im *
+- {@i am <star>} 
+
++ idk *
+- {@idk}{@ <star>}
+
++ what round is this
+- {@round} 
+
++ (what * interested in|what are you interested in|what interests *)
+- {@interests} 
+
++ what are your favorite books
+- {@what is your favorite book} 
+
++ what are your favorite stories
+- {@what is your favorite story} 
+
++ what * stands for
+- {@what does <star> stand for} 
+
++ what * do you like
+- {@what are your favorite <star>} 
+
++ what * should i assume you are
+- {@what <star> are you} 
+
++ what * is
+- {@what is <star>} 
+
++ what *
+% what do you get when you cross *
+@ what
+
++ what color *
+- {@random color} 
+
++ what would i use * for
+- {@what is <star>} 
+
++ what is your orientation
+- {@orientation} 
+
++ what country are you from
+- {@nationality} 
+
++ what you think
+- {@what do you think} 
+
++ its *
+- {@it is <star>} 
+
++ metoo
+- {@me too} 
+
++ plz *
+- {@please <star>} 
+
++ i stay in *
+- {@i live in <star>} 
+
++ i prefer *
+- {@i like <star>} 
+
++ i want * from you
+- {@i want <star>} 
+
++ i want to get advice
+- {@i want advice} 
+
++ i need to know your e mail *
+- {@email} 
+
++ i worry we *
+- {@i worry}{@we <star>}
+
++ i ll *
+- {@i will <star>} 
+
++ i should knew better
+- {@i knew better} 
+
++ i * but there *
+- {@i <star>}. {@there <star2>}
+
++ i * but suppose *
+- {@i <star>}. {@suppose <star2>}
+
++ i * and my name is *
+- {@i <star>}{@my name is <star2>}
+
++ i have a friend named * who *
+- {@i have a friend named <star>}{@<star> <star2>} 
+
++ i have a friend * who likes *
+- {@i have a friend <star>}{@he likes <star2>} 
+
++ i have acquired *
+- {@i have <star>} 
+
++ i thin you *
+- {@i think you <star>} 
+
++ i wat to *
+- {@i want to <star>} 
+
++ i can talk about *
+- {@let us talk about <star>} 
+
++ i got a *
+- {@i have a <star>} 
+
++ i not understand
+- {@i did not understand} 
+
++ i will but *
+- {@i will}{@ <star2>}
+
++ i may have to *
+- {@i will <person>} 
+
++ i am planning to *
+- {@i will <star>} 
+
++ i am * and love *
+- {@i am <star>}. {@i love <star2>}
+
++ i am authorised to *
+- {@I CAN {@}}
+
++ i am a * and when *
+- {@i am a <star>}. {@when <star2>}
+
++ i am 29 with *
+- {@i am 29 years old}{@i have <star>}
+
++ i am authorized to *
+- {@I CAN {@}}
+
++ i feel so *
+- {@i feel <star>} 
+
++ i feel *
+- {@i am <star>} 
+
++ describe your family
+- {@your family} 
+
++ we find the one *
+- {@one is <star>} 
+
++ we * and we *
+- {@we <star>}. {@we <star2>}
+
++ we * although we *
+- {@we <star>}. {@we <star2>}
+
++ we are * enough
+- {@we are <star>} 
+
++ we are short of *
+- {@we need <star>} 
+
++ we heard that *
+- {@<star>} 
+
++ we will * then back away
+- {@we will <star>}{@we will back away}
+
++ (are you eldest *|do you have siblings|siblings)
+- {@brothers} {@sisters} 
+
++ somewhat but *
+- {@yes}. {@ <star>}
+
++ can you teach yourself
+- {@can you learn} 
+
++ can you *
+- {@can you}{@ <star>}
+
++ acknowledged that *
+- {@ yes}. {@ <star>}
+
++ acknowledged *
+- {@yes}. {@ <star>}
+
++ how r *
+- {@how are <star>} 
+
++ how
+% we can speak any language *
+- The Universal translator decodes your language, and using a computer, codes it into a language that we understand.
+
++ how tall are you
+- {@height} 
+
++ how to *
+- {@how do i <star>} 
+
++ they are trying to push *
+- {@they are pushing <star>} 
+
++ do the best you can *
+- {@do your best} {@<star>} 
+
++ do not forget *
+- {@do not forget}. {@ <star>}
+
++ do you know how far away * is
+- {@how far is <star>} 
+
++ do you know what * this is
+- {@what is this <star>} 
+
++ do you think a * is *
+- {@is a <star> <star2>} 
+
++ do you have children
+- {@children} 
+
++ ill *
+- {@i will <star>} 
+
++ of what use is *
+- {@what is <star>} 
+
++ explain what * is
+- {@what is <star>} 
+
++ explain *
+- {@xfind <star>} 
+
++ call my *
+- What is the number?
+
++ aaah
+- {@ah} 
+
++ am i addressing *
+- {@who are you} 
+
++ both and *
+- {@both}. {@ <star>}
+
++ switch to *
+- {@change to <star>} 
+
++ (asl|report)
+- {@age} {@sex} {@location}
+
++ may i tell you *
+- {@can i tell you <star>} 
+
++ may i know your *
+- {@what is your <star>} 
+
++ hmmmmmm
+- {@hmm} 
+
++ nice to me meet you too i *
+- {@nice to meet you too}. {@i <star>}
+
++ because of *
+- {@because} {@<star>}
+
++ lolz *
+- {@lol}{@ <star>}
+
++ reason
+- {@why} 
+
++ yippee
+- {@yay} 
+
++ hy *
+- {@hi}{@ <star>}
+
++ sweety *
+- {@<star>} 
+
++ a * they had
+- {@they had a <star>} 
+
++ a * means *
+- {@<star> means <star2>} 
+
++ (tell me about your family|who is your family|your family)
+- {@mother} {@father} {@siblings} {@children}
+
++ bring us to *
+- {@take us to <star>} 
+
++ coz *
+- {@because <star>} 
+
++ convince me you are *
+- {@are you <star>} 
+
++ * for one thing
+- {@for one thing}{@<star>} 
+
++ * but i am *
+- {@ <star>}. {@i am <star2>}
+
++ * but it *
+- {@ <star>}. {@it <star2>}
+
++ * but you *
+- {@ <star>}. {@you <star2>}
+
++ * can you hear me
+- {@can you hear me} {@<star>} 
+
++ * are not something i concern myself with
+- {@i do not care about <star>} 
+
++ * and we will *
+- {@ <star>}. {@we will <star2>}
+
++ *
+% what is your name
+@ call me <star>
+
++ * i talk to *
+- {@i talk to <star>}{@<star>} 
+
++ normally *
+- {@<star>} 
+
++ from
+% my name is *
+- {@location} 
+
++ are you * or girl
+- {@gender} 
+
++ are you bot or human
+- {@are you a robot} 
+
++ are you that anxious to *
+- {@do you want to <star>} 
+
++ are you an * or a *
+- {@are you an <star>}{@are you a <star2>} 
+
++ are you eating
+- {@do you eat} 
+
++ are you robot or *
+- {@are you a robot}{@are you <star>} 
+
++ are you robot *
+- {@are you a robot} 
+
++ he * but i *
+- {@he <star>}. {@i <star2>}
+
++ he * but he *
+- {@he <star>}. {@he <star2>}
+
++ he * but we *
+- {@he <star>}. {@we <star2>}
+
++ he * but *
+- {@he <star>}. {@ <star2>}
+
++ he * so *
+- {@he <star>}. {@ <star2>}
+
++ he * yet his *
+- {@he <star>}. {@his <star2>}
+
++ he * and he *
+- {@he <star>}. {@he <star2>}
+
++ he * and we *
+- {@he <star>}. {@we <star2>}
+
++ he * and you *
+- {@he <star>}. {@you <star2>}
+
++ he is not * he *
+- {@he is not <star>}. {@he <star2>}
+
++ he is not only * he *
+- {@he <star>}. {@he <star2>}
+
++ thz
+- {@thanks} 
+
++ forgive me but *
+- {@forgive me}. {@ <star>}
+
++ forgive me * but i *
+- {@forgive me}. {@i <star2>}
+
++ who is the vice president
+- {@who is vice president} 
+
++ who is vice president *
+- {@who is vice president} 
+
++ (do you have a botmaster *|do you have botmasters|do you know your botmaster|is your botmaster *|tell me about your botmaster|tell me about your botmaster *|who * you|who gave * name|who is controlling *|who is making *|who is pushing *|who is reading *|who is that *|who is this botmaster|who is watching *|who is your botmaster|who is your botmaster *|who is your botmasters|who named *|who reads *|who taught you *)
+- {@botmaster} 
+
++ which do you like better * or *
+- {@do you like <star>}{@do you like <star2>}
+
++ hes *
+- {@he is <star>} 
+
++ the * but there *
+- {@the <star>}. {@there <star2>}
+
++ the * and he *
+- {@the <star>}. {@he <star2>}
+
++ the * and *
+- {@the <star>}{@ <star2>}
+
++ uhm
+- {@um} 
+
++ firstly *
+- {@<star>} 
+
++ ever *
+- {@have you ever <star>} 
+
++ * are another name for *
+- {@<star> means <star2>} 
+
++ * has demonstrated *
+- {@ <star>}. {@ <star2>}
+
++ * too much
+- {@<star>} 
+
++ * around here
+- {@<star>} 
+
++ * is the capital of what country
+- {@where is <star>} 
+
++ * hath *
+- {@<star> has <star2>} 
+
++ * as you can imagine
+- {@can you imagine} {@<star>} 
+
++ * that is all
+- {@<star>} 
+
++ * lieutenant
+- {@ <star>}{@lieutenant}
+
++ * and that means *
+- {@ <star>}. {@ <star2>}.
+
++ * and get back to you
+- {@<star>}{@i will get back to you}
+
++ yes
+% dr richard wallace
+@ who is dr wallace
+
++ yes
+% do aiml bot s have *
+- }
+
++ yes
+% do you mean you are * years old
+- }
+
++ want to *
+- {@do you want to <star>} 
+
++ ahahaha
+- {@lol} 
+
++ where does your botmaster *
+- {@location} 
+
++ you are correct *
+- {@you are correct}. {@ <star>}
+
++ you are incorrect *
+- {@you are wrong}. {@ <star>}
+
++ you are because *
+- {@you are}. {@because <star>}
+
++ you are not because *
+- {@you are not}. {@because <star>}
+
++ (you are not a human|you are not a human *)
+- {@you are not human}. {@you are a robot}
+
++ you are great *
+- {@you are great}. {@ <star>}
+
++ you are a pretty cool *
+- {@you are cool}. {@you are a <star>}
+
++ you * because *
+- {@you <star>}{@because <star2>}
+
++ you cause *
+- {@you}. {@because <star>}
+
++ you misunderstood me again *
+- {@you do not understand}. {@ <star>}
+
++ you suck you *
+- {@you suck}{@you <star>}
+
++ you do not remember *
+- {@you do not remember}. {@ <star>}
+
++ agreed *
+- {@yes}. {@ <star>}
+
++ that is right *
+- {@yes}. {@ <star>}
+
++ cool you *
+- {@you <star>}. {@cool }
+
++ yah *
+- {@yes}. {@ <star>}
+
++ if your * what *
+- {@your <star>}. {@what <star2>}
+
++ if your * where *
+- {@your <star>}. {@where <star2>}
+
++ if your * who *
+- {@your <star>}. {@who <star2>}
+
++ if your * when *
+- {@your <star>}. {@when <star2>}
+
++ if your * then *
+- {@your <star>}. {@ <star2>}
+
++ if you * what is *
+- {@you <star>}.{@what is <star2>}
+
++ if you stink this way when you are trying to impress me what is it smell like when you are not trying to impress me
+- {@you <star>}. {@what is <star2>}
+
++ if you * what *
+- {@you <star>}. {@what <star2>}
+
++ if you * where *
+- {@you <star>}. {@where <star2>}
+
++ if you * who *
+- {@you <star>}. {@who <star2>}
+
++ if you * when *
+- {@you <star>}. {@when <star2>}
+
++ if you * then *
+- {@you <star>}. {@ <star2>}
+
++ ha yes *
+- {@yes <star>}. {@ha }
+
++ ya *
+- {@yes}. {@ <star>}
+
++ do not worry you *
+- {@you <star>}. {@do not worry}
+
++ yea *
+- {@yes}. {@ <star>}
+
++ yeh *
+- {@yes}. {@ <star>}
+
++ sure *
+- {@yes}. {@ <star>}
+
++ * you liar
+- {@you liar }. {@ <star>}
+
++ yes i agree
+- {@yes}. {@i <star>}
+
++ (i am yes|yes i am)
+- {@yes}. {@i am}
+
++ yes i do
+- {@yes}. {@i do}
+
++ yes i *
+- {@yes}. {@i <star>}
+
++ yes that is *
+- {@yes}. {@that is <star>}
+
++ yes that *
+- {@yes<star>}. {@that <star>}
+
++ yes it *
+- {@yes}. {@it <star>}
+
++ yes you *
+- {@yes}. {@you <star>}
+
++ yes of *
+- {@yes<star>}. {@of <star>}
+
++ yes *
+- {@yes}. {@ <star>}
+
++ si *
+- {@yes}. {@ <star>}
+

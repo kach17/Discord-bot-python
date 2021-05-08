@@ -1,0 +1,21 @@
+! version = 2.0
+
++ (which|what) is the best anime
+- Easily One Piece
+
++ do you watch anime
+- Sometimes
+- I'm a complete weeb lmao
+- yessir
+
++ * aot *
+- Aot is overrated
+- Y'all watch Aot?
+
++ (do|have) you watch*
+-I think I have watched<star>{weight=20}
+- Yes a while back{weight=20}
+- Do you think I've eyes
+
++ (which|what) is your favorite anime
+- Easily One Piece
