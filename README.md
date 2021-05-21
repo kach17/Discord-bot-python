@@ -1,4 +1,4 @@
-# Discord bot
+# Discord bot (Megumi)
 ## **A simple discord bot made in my free time, feel free to edit the code as you like :)** <br /> <br />This is a multi-purpose discord bot made in python with many different cogs such as:
 
 ### Admin:
