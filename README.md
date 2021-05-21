@@ -1,5 +1,5 @@
 # Discord bot
-## **A simple discord bot made in my free time, feel free to edit the code as you like :)** <br /> <br />This is multi-purpose discord bot made in python with many different cogs such as:
+## **A simple discord bot made in my free time, feel free to edit the code as you like :)** <br /> <br />This is a multi-purpose discord bot made in python with many different cogs such as:
 
 ### Admin:
  > For administrating purposes such as muting,unmuting, banning, unbanning etc..
